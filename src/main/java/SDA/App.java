@@ -30,6 +30,16 @@ public class App {
         System.out.println(liczby.unikalnaLista(lista));
 
 
-    }
+//
+//        Shop shop = new Shop();
+//Client client = new Client();
+//
+//        shop.addToShopQueue();
 
-}
+
+
+        }
+
+        }
+
+

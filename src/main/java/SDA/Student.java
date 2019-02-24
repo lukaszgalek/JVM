@@ -1,6 +1,6 @@
 package SDA;
 
-public class Student {
+public class Student implements Cloneable{
 
         int id;
         String name;

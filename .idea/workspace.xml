@@ -5,16 +5,12 @@
       <change afterPath="$PROJECT_DIR$/../AlgorytmySortowanie/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HotelService/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HotelService/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ShallowCopyInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Student.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PPv3/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PPv3/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PPv3/src/main/java/SDA/App.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PPv3/src/test/java/SDA/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dzien11" beforeDir="false" afterPath="$PROJECT_DIR$/../Dzien11" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SDA/CloneMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SDA/CloneMain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -74,8 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -83,8 +79,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ShallowCopyInJava.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+            <state relative-caret-position="222">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -148,8 +144,8 @@
         <option value="$PROJECT_DIR$/src/main/java/SDA/Employee.java" />
         <option value="$PROJECT_DIR$/src/main/java/SDA/CloneMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/SDA/Course.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SDA/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/SDA/ShallowCopyInJava.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/Student.java" />
       </list>
     </option>
   </component>
@@ -225,7 +221,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551010041082" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551010398716" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -463,19 +459,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Throwable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
@@ -494,6 +477,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Course.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -501,17 +504,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ShallowCopyInJava.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        <state relative-caret-position="222">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>

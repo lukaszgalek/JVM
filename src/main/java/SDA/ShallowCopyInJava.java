@@ -14,7 +14,8 @@ public class ShallowCopyInJava {
             e.printStackTrace();
         }
         //Printing the subject3 of 'student1'
-        System.out.println(student1.course.subject3);//Output : Biology
+        System.out.println(student1.course.subject3);
+        //Output : Biology
         // Changing the subject3 of 'student2'
         student2.course.subject3 = "Maths";
         //This change will be reflected in original student 'student1'

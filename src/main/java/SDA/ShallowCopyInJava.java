@@ -21,5 +21,7 @@ public class ShallowCopyInJava {
         //This change will be reflected in original student 'student1'
         System.out.println(student1.course.subject3);
         // Output : Maths
+
+        System.out.println(student2.course.subject3);
     }
 }
